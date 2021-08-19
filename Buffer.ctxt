@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Buffer
+comment0.text=\r\n\ An\ object\ of\ the\ Buffer\ class\ generates\ an\ array\ list\ and\ max\ element\ of\ array\ list.\r\n\ \r\n\ \r\n\ @author\ (Sugandh\ Singhal)\r\n\ @version\ (26-10-2019)\r\n
+comment1.params=
+comment1.target=Buffer()
+comment1.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ Buffer\r\n
+comment2.params=newList\ newMaxElements
+comment2.target=Buffer(java.util.ArrayList,\ int)
+comment2.text=\r\n\ Non\ default\ constructor\ for\ objects\ of\ class\ Buffer\r\n\ @param\ newList\ ArrayList\ of\ multiple\ class\ to\ assign\ on\ list\r\n\ @param\ newMaxElements\ integer\ to\ tell\ maximum\ element\ of\ arraylist\r\n
+comment3.params=
+comment3.target=void\ displayList()
+comment3.text=\r\n\ Method\ to\ display\ value\ of\ fields\r\n\ \r\n
+comment4.params=
+comment4.target=java.util.ArrayList\ getList()
+comment4.text=\r\n\ Accessor\ Method\ to\ get\ the\ arrayList\ of\ Multiple\ class\ \r\n\ \r\n\ @return\ A\ array\ list\ of\ multiple\ class\ \r\n
+comment5.params=
+comment5.target=int\ getMaxElement()
+comment5.text=\r\n\ Accessor\ Method\ to\ get\ the\ max\ element\ that\ can\ be\ in\ array\ list\r\n\ \r\n\ @return\ the\ max\ element\ that\ can\ be\ in\ array\ list\r\n
+comment6.params=newList
+comment6.target=void\ setList(java.util.ArrayList)
+comment6.text=\r\n\ Mutator\ Method\ to\ set\ the\ max\ element\ that\ can\ be\ in\ array\ list\r\n\ \r\n\ @param\ newList\ arraylist\ to\ define\ the\ list\ \r\n
+comment7.params=newMaxElement
+comment7.target=void\ setMaxElement(int)
+comment7.text=\r\n\ Mutator\ Method\ to\ set\ the\ maximum\ element\ value\r\n\ \r\n\ @param\ newMaxElement\ integer\ to\ define\ the\ the\ maximum\ value\ of\ arraylist\ \r\n
+numComments=8
